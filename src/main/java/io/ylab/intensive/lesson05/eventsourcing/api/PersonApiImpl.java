@@ -1,4 +1,4 @@
-package io.ylab.intensive.lesson04.eventsourcing.api;
+package io.ylab.intensive.lesson05.eventsourcing.api;
 
 import java.util.List;
 
